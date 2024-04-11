@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "at.rewe.bestgh",
+      "sha256_cert_fingerprints": [
+        "7D:9B:36:1C:39:1A:32:56:DA:CD:DF:C6:D8:E3:CE:17:AF:CF:AD:F9:D0:82:B4:B6:EB:B9:76:E2:A0:03:09:B5"
+      ]
+    }
+  }
+]
